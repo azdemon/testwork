@@ -1,0 +1,9 @@
+Доброго времени суток, {{ first_name }} {{ surname }} \n\n
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Natus veritatis fugit quidem consequatur rerum blanditiis,
+repellendus obcaecati quia doloribus voluptatum nam, sed,
+aliquam explicabo corrupti eos! Illo non impedit modi dolorum 
+voluptas autem quisquam provident ipsam tempore sapiente nam 
+laudantium reprehenderit earum neque, eum dolore corrupti! 
+Tenetur quae maiores laudantium! \n\n
