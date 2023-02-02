@@ -5,5 +5,5 @@
 3. Заполняем `personsdata.py` в корне django проетка `somedjangoproject`
 4. Поднимаем контейнеры: `docker-compose up -d --build`
 
-### Ендпоиндт:
+### Ендпоинт:
 - `http://127.0.0.1`
